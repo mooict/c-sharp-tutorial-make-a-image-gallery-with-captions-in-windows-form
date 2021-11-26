@@ -12,6 +12,8 @@ namespace Image_Gallery_App_Windows_Form
 {
     public partial class Form1 : Form
     {
+        // this project was created for educational purposes only
+        // no rights were claimed or violated by the use of the external files in this project
 
         int pictureNumber = 1; 
 
